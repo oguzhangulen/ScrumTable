@@ -1,0 +1,21 @@
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.Models\bin\Debug\Oguzhan.Scrum.Models.dll.config
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.Models\bin\Debug\Oguzhan.Scrum.Models.dll
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.Models\bin\Debug\Oguzhan.Scrum.Models.pdb
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.Models\bin\Debug\EntityFramework.dll
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.Models\bin\Debug\EntityFramework.xml
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.Models\obj\Debug\Oguzhan.Scrum.Models.dll
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.Models\obj\Debug\Oguzhan.Scrum.Models.pdb
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.Models\obj\Debug\Oguzhan.Scrum.Models.csprojResolveAssemblyReference.cache
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.Models\bin\Debug\Oguzhan.Scrum.Models.dll.config
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.Models\bin\Debug\Oguzhan.Scrum.Models.dll
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.Models\bin\Debug\Oguzhan.Scrum.Models.pdb
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.Models\bin\Debug\EntityFramework.dll
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.Models\bin\Debug\EntityFramework.xml
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.Models\obj\Debug\Oguzhan.Scrum.Models.csprojResolveAssemblyReference.cache
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.Models\obj\Debug\Oguzhan.Scrum.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.Models\obj\Debug\Oguzhan.Scrum.Models.dll
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.Models\obj\Debug\Oguzhan.Scrum.Models.pdb

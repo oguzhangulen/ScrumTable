@@ -1,0 +1,86 @@
+﻿<controls:MetroWindow x:Class="Oguzhan.Scrum.WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oguzhan.Scrum.WPF"
+        xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="557.338" Width="769.254" WindowStartupLocation="CenterScreen">
+    <Grid x:Name="ElementList">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label Content="SCRUM BOARD" HorizontalContentAlignment="Center" Margin="5"/>
+        <Grid x:Name="WrapLists" Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label Content="STORIES" Grid.Column="0"  HorizontalContentAlignment="Center" Margin="5"/>
+            <Label Content="NOT STARTED" Grid.Column="1"  HorizontalContentAlignment="Center" Margin="5"/>
+            <Label Content="IN PROGRESS" Grid.Column="2"  HorizontalContentAlignment="Center" Margin="5"/>
+            <Label Content="DONE" Grid.Column="3"  HorizontalContentAlignment="Center" Margin="5"/>
+
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="1">
+                <WrapPanel x:Name="wrp_Stroies" Margin="2" Background="Aqua" Orientation="Vertical"/>
+            </ScrollViewer>
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="3">
+                <WrapPanel x:Name="wrp_Stroies2" Margin="2" Background="Aqua" Orientation="Vertical"/>
+            </ScrollViewer>
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="5">
+                <WrapPanel x:Name="wrp_Stroies3" Margin="2" Background="Aqua" Orientation="Vertical"/>
+            </ScrollViewer>
+            <Button x:Name="btn_NewStories" Content="NEW STORIES" Grid.Row="2" Click="btn_NewStories_Click" HorizontalAlignment="Left" Width="142"/>
+            <Button x:Name="btn_NewStoriesDelete" Content="DELETE" Grid.Row="2" Click="btn_NewStoriesDelete_Click" HorizontalAlignment="Right"/>
+            <Button x:Name="btn_NewStories2" Content="NEW STORIES" Grid.Row="4" Click="btn_NewStories_Click2" HorizontalAlignment="Left" Width="142"/>
+            <Button x:Name="btn_NewStoriesDelete2" Content="DELETE" Grid.Row="4" Click="btn_NewStoriesDelete_Click2" HorizontalAlignment="Right"/>
+            <Button x:Name="btn_NewStories3" Content="NEW STORIES" Grid.Row="6" Click="btn_NewStories_Click3" HorizontalAlignment="Left" Width="142"/>
+            <Button x:Name="btn_NewStoriesDelete3" Content="DELETE" Grid.Row="6" Click="btn_NewStoriesDelete_Click3" HorizontalAlignment="Right"/>
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="1" Grid.Column="1">
+                <WrapPanel x:Name="wrp_NotStarted"  Grid.Column="1" Margin="2" Background="Aqua"/>
+            </ScrollViewer>
+
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="3" Grid.Column="1">
+                <WrapPanel x:Name="wrp_NotStarted2"  Grid.Column="1" Margin="2" Background="Aqua"/>
+            </ScrollViewer>
+
+            <Button x:Name="btn_NewStarted" Content="NEW STARTED" Grid.Row="2" Grid.Column="1" Click="btn_NewStarted_Click"/>
+            <Button x:Name="btn_NewStarted2" Content="NEW STARTED" Grid.Row="4" Grid.Column="1" Click="btn_NewStarted_Click2"/>
+            <Button x:Name="btn_NewStarted3" Content="NEW STARTED" Grid.Row="6" Grid.Column="1" Click="btn_NewStarted_Click3"/>
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="1" Grid.Column="2" Grid.RowSpan="2">
+                <WrapPanel x:Name="wrp_InProgress" Margin="2" Background="Aqua"/>
+            </ScrollViewer>
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="1" Grid.Column="3" Grid.RowSpan="2">
+                <WrapPanel x:Name="wrp_Done" Margin="2" Background="Aqua"/>
+            </ScrollViewer>
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="5" Grid.Column="1">
+                <WrapPanel x:Name="wrp_NotStarted3"  Grid.Column="1" Margin="2" Background="Aqua"/>
+            </ScrollViewer>
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="3" Grid.Column="2" Grid.RowSpan="2">
+                <WrapPanel x:Name="wrp_InProgress2" Margin="2" Background="Aqua"/>
+            </ScrollViewer>
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="5" Grid.Column="2" Grid.RowSpan="2">
+                <WrapPanel x:Name="wrp_InProgress3" Margin="2" Background="Aqua"/>
+            </ScrollViewer>
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="3" Grid.Column="3" Grid.RowSpan="2">
+                <WrapPanel x:Name="wrp_Done2" Margin="2" Background="Aqua"/>
+            </ScrollViewer>
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="5" Grid.Column="3" Grid.RowSpan="2">
+                <WrapPanel x:Name="wrp_Done3" Margin="2" Background="Aqua"/>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+</controls:MetroWindow>

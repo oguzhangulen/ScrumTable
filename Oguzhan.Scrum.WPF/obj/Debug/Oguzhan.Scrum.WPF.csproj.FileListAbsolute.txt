@@ -1,0 +1,69 @@
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\Oguzhan.Scrum.WPF.exe.config
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\Oguzhan.Scrum.WPF.exe
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\Oguzhan.Scrum.WPF.pdb
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\Oguzhan.Scrum.WPF.csprojResolveAssemblyReference.cache
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\MainWindow.g.cs
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\App.g.cs
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\Oguzhan.Scrum.WPF_MarkupCompile.cache
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\Oguzhan.Scrum.WPF_MarkupCompile.lref
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\MainWindow.baml
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\Oguzhan.Scrum.WPF.g.resources
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\Oguzhan.Scrum.WPF.Properties.Resources.resources
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\Oguzhan.Scrum.WPF.csproj.GenerateResource.Cache
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\Oguzhan.Scrum.WPF.exe
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\Oguzhan.Scrum.WPF.pdb
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\NewStoryView.g.cs
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\NewStoryView.baml
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\EntityFramework.dll
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\EntityFramework.xml
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\Oguzhan.Scrum.DAL.dll
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\Oguzhan.Scrum.Models.dll
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\Oguzhan.Scrum.DAL.pdb
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\Oguzhan.Scrum.Models.pdb
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\UCHistoryView.g.cs
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\UCHistoryView.baml
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\ControlzEx.dll
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\MahApps.Metro.dll
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\System.Windows.Interactivity.dll
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\ControlzEx.pdb
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\MahApps.Metro.pdb
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\MahApps.Metro.xml
+c:\users\birkanaydin\documents\visual studio 2015\Projects\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\App.baml
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\Oguzhan.Scrum.WPF.exe.config
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\Oguzhan.Scrum.WPF.exe
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\Oguzhan.Scrum.WPF.pdb
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\ControlzEx.dll
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\EntityFramework.dll
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\MahApps.Metro.dll
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\Oguzhan.Scrum.DAL.dll
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\Oguzhan.Scrum.Models.dll
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\Oguzhan.Scrum.DAL.pdb
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\Oguzhan.Scrum.DAL.dll.config
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\Oguzhan.Scrum.Models.pdb
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\Oguzhan.Scrum.Models.dll.config
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\ControlzEx.pdb
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\EntityFramework.xml
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\bin\Debug\MahApps.Metro.xml
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\Oguzhan.Scrum.WPF.csprojResolveAssemblyReference.cache
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\NewStoryView.g.cs
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\UCHistoryView.g.cs
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\App.g.cs
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\Oguzhan.Scrum.WPF_MarkupCompile.cache
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\Oguzhan.Scrum.WPF_MarkupCompile.lref
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\App.baml
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\MainWindow.baml
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\NewStoryView.baml
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\UCHistoryView.baml
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\Oguzhan.Scrum.WPF.g.resources
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\Oguzhan.Scrum.WPF.Properties.Resources.resources
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\Oguzhan.Scrum.WPF.csproj.GenerateResource.Cache
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\Oguzhan.Scrum.WPF.csproj.CoreCompileInputs.cache
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\Oguzhan.Scrum.WPF.exe
+C:\Users\Ottoman\Desktop\bScrum\Oguzhan.Scrum\Oguzhan.Scrum.WPF\obj\Debug\Oguzhan.Scrum.WPF.pdb
